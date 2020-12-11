@@ -1,0 +1,2 @@
+# MineSweeper
+MineSweeper. WinForm. RU.
